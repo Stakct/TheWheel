@@ -1,0 +1,15 @@
+{
+  "name": "wheel",
+  "version": "1.0.0",
+  "description": "Spin wheel game using canvas animation as header.",
+  "main": "wheel.html",
+  "scripts": {
+    "start": "ws --spa wheel.html"
+  },
+  "author": "Salvatore Tarda",
+  "license": "MIT",
+  "devDependencies": {},
+  "dependencies": {
+    "local-web-server": "^3.0.7"
+  }
+}
